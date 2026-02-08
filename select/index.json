@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "遊助　『全部好き。』",
+  "base_artist": "遊助",
+  "createdAt": "2026-02-08T06:48:21.826582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全部好き。",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_01_全部好き。_遊助.txt"
+    }
+  ]
+}
